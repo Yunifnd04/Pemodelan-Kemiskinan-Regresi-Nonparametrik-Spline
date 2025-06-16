@@ -1,0 +1,1 @@
+# Pemodelan-Kemiskinan-Regresi-Nonparametrik-Spline
